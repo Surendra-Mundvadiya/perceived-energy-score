@@ -29,7 +29,7 @@ The Perceived Energy Score API is a back-end service that allows users to track 
 1. **Clone the Repository**
 
     ```bash
-    git clone [Your Repository URL]
+    git clone https://github.com/Surendra-Mundvadiya/perceived-energy-score.git
     ```
 
 2. **Navigate to the Project Directory**
