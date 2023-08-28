@@ -1,0 +1,15 @@
+User,Date,StartTime,EndTime,Duration,Activity,LogType,Steps,Distance,ElevationGain,Calories
+64ec9feb4c05112928d8ad16,04/01/22,12:21:10 PM,1:47:22 PM,?,Walk,auto_detected,5768,0,0,508
+64ec9feb4c05112928d8ad17,04/01/22,11:27:42 AM,12:58:28 PM,?,Hike,tracker,6519,4.46707,188.976,730
+64ec9feb4c05112928d8ad16,04/02/22,12:26:20 PM,1:25:13 PM,?,Walk,auto_detected,4812,0,91.44,343
+64ec9feb4c05112928d8ad17,04/02/22,1:53:22 PM,2:39:28 PM,?,Walk,auto_detected,4147,0,243.84,357
+64ec9feb4c05112928d8ad16,04/03/22,8:30:12 AM,8:48:08 AM,?,Walk,auto_detected,1640,0,15.24,141
+64ec9feb4c05112928d8ad17,04/03/22,6:01:08 PM,6:37:14 PM,?,Run,tracker,5760,6.465203,46.33,460
+64ec9feb4c05112928d8ad16,04/04/22,10:24:12 AM,10:30:22 AM,?,Fitstar: Personal Trainer,fitstar,117,0,0,45
+64ec9feb4c05112928d8ad17,04/04/22,7:32:36 AM,7:52:14 AM,?,Walk,auto_detected,2065,0,6.096,171
+64ec9feb4c05112928d8ad16,04/05/22,7:37:22 AM,8:01:15 AM,?,Walk,auto_detected,2369,0,30.48,262
+64ec9feb4c05112928d8ad17,04/05/22,8:50:13 PM,9:08:09 PM,?,Walk,auto_detected,1573,0,6.096,134
+64ec9feb4c05112928d8ad16,04/06/22,3:02:08 PM,3:17:30 PM,?,Walk,auto_detected,1393,0,6.096,115
+64ec9feb4c05112928d8ad17,04/06/22,8:23:23 AM,8:48:59 AM,?,Walk,auto_detected,1779,0,15.24,166
+64ec9feb4c05112928d8ad16,04/07/22,11:46:26 AM,12:03:30 PM,?,Walk,auto_detected,1536,0,9.144,133
+64ec9feb4c05112928d8ad17,04/07/22,9:39:00 AM,10:15:46 AM,?,Run,tracker,5937,6.47782,45.415,472
